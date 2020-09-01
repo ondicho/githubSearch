@@ -1,5 +1,5 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
-
+import  {GithubService} from './github-service/github.service.ts';
 import { GithubSearchComponent } from './github-search.component';
 
 describe('GithubSearchComponent', () => {
